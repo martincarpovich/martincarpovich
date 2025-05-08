@@ -38,7 +38,7 @@ Want to know more about my work or connect with me?
 
 Feel free to reach out if you have questions, ideas, or just want to connect:
 
-[![Gmail](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=martincarpovich%40gmail.com&labelColor=black&color=%23EA4335)](mailto:martincarpovich@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=martincarpovich%40gmail.com&labelColor=black&color=%23EA4335)](mailto:martinkarpovich@gmail.com)
 
 <br>
 
@@ -87,7 +87,7 @@ En este repositorio encontrarás el código fuente de mi página web personal, d
 
 No dudes en ponerte en contacto conmigo si tienes preguntas, ideas o solo quieres conectar:
 
-[![Gmail](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=martincarpovich%40gmail.com&labelColor=black&color=%23EA4335)](mailto:martincarpovich@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=white&label=martincarpovich%40gmail.com&labelColor=black&color=%23EA4335)](mailto:martinkarpovich@gmail.com)
 
 <br>
 
