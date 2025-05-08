@@ -1,1 +1,1 @@
-# Perfil de Martin Carpovich | programador Full Stack en formacion
+# Perfil de Martin Carpovich | programador Full Stack en formación
