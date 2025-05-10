@@ -28,10 +28,11 @@ In this repository, you'll find the source code of my personal website, where I 
 
 Want to know more about my work or connect with me?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-carpovich/)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/martin-carpovich/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martincarpovich)
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/martincarpovich)
+
 
 
 <br>
@@ -79,10 +80,10 @@ En este repositorio encontrarás el código fuente de mi página web personal, d
 
 ¿Querés saber más sobre mi trabajo o conectarte conmigo?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martin-carpovich/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/martin-carpovich/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black)](https://github.com/martincarpovich)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/martincarpovich)
 
 
 <br>
