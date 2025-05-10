@@ -1,7 +1,7 @@
 # Hello, I'm Martín Carpovich 👨🏻‍💻 🇦🇷  
 ### Full-Stack Developer in Training 🚀
 
-![Martín Carpovich banner](./Banner.png)
+![Martín Carpovich banner](./banner2.png)
 
 Hi there! I'm Martín Carpovich, a Full-Stack developer in training with a strong passion for technology and building solutions through code. This is my space to document and share my progress as a developer.
 
